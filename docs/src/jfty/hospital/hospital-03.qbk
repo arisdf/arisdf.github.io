@@ -1,0 +1,21 @@
+[article Hospital 03
+	[quickbook 1.7]
+	[id hospital-03]
+]
+
+[role drop_menu
+> [link hospital Back: Hospital][br]
+]
+
+Dr. Finch: (Stares blankly) Mrs. Gable, with all due respect, a missing cat in a sombrero is hardly a medical emergency.
+
+Mrs. Gable: But he's incredibly sensitive! He gets anxiety if he doesn't have his daily dose of chamomile tea and interpretive dance! He’s also judging my knitting, constantly, and it’s quite distracting! I need him now*!
+
+(Just then, a cleaning lady, Agnes, wheeled in a large mop bucket. Out from behind it popped a chimpanzee wearing a nurse’s uniform and reading a copy of "Gray's Anatomy.")
+
+[h1:date [role cyan Date]]
+
+Wed Apr  1 07:38:22 AM UTC 2026
+
+[include ../../share/foot-links.inc.qbk]
+

@@ -1,0 +1,25 @@
+[article Hospital 08
+	[quickbook 1.7]
+	[id hospital-08]
+]
+
+[role drop_menu
+> [link hospital Back: Hospital][br]
+]
+
+Mrs. Gable: Bartholomew! There you are! What have you been up to?
+
+(Bartholomew meows and points a paw at a squirrel wearing a miniature clown costume, who is frantically trying to climb the wall with a sack full of bananas.)
+
+Bartholomew (in a surprisingly clear voice): They were staging a hostile takeover of the banana supply and planned to use the cake as collateral! I had to stop them!
+
+(Mr. Henderson starts laughing uncontrollably.)
+
+Mr. Henderson: The rubber chicken… it’s doing a polka! And he’s juggling bananas!
+
+[h1:date [role cyan Date]]
+
+Wed Apr  1 07:42:13 AM UTC 2026
+
+[include ../../share/foot-links.inc.qbk]
+

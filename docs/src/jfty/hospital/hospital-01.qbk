@@ -1,0 +1,23 @@
+[article Hospital 01
+	[quickbook 1.7]
+	[id hospital-01]
+]
+
+[role drop_menu
+> [link hospital Back: Hospital][br]
+]
+
+(A weary-looking doctor, Dr. Finch, is making rounds. He’s trailed by a very enthusiastic, if somewhat disorganized, resident, Dr. Ramirez. They stop at the bedside of a patient, Mr. Henderson, who is wired to a bewildering array of monitors and hooked up to an IV drip.)
+
+Dr. Finch: (Sighs) Mr. Henderson, how are we feeling today?
+
+Mr. Henderson: (Weakly) I still have this… peculiar sensation. Like a rubber chicken is tap-dancing on my spleen.
+
+Dr. Ramirez: (Jumps in, scribbling furiously in his notepad) A rubber chicken… on the spleen. Interesting. Could be a manifestation of… (He checks a very thick medical manual) …spontaneous anthropomorphic poultry resonance! Rare, but documented! We need to run a full avian resonance index!
+
+[h1:date [role cyan Date]]
+
+Wed Apr  1 07:37:03 AM UTC 2026
+
+[include ../../share/foot-links.inc.qbk]
+

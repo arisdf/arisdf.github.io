@@ -1,0 +1,25 @@
+[article How To Dig A Hole: P4
+	[quickbook 1.7]
+	[id dig-hole-p4]
+]
+
+[role drop_menu
+> [link dig-hole Back: How To Dig A Hole][br]
+]
+
+[h1:dealing [role cyan 4. Dealing with Different Soil Types]]
+
+Sandy Soil: Dries out quickly, but can be unstable. Digging is relatively easy.
+
+Clay Soil: Holds water well, but is very sticky and heavy when wet, and can be difficult to dig. Let it dry out a bit (if possible) before digging.
+
+Loamy Soil: A good mix of sand, silt, and clay. Relatively easy to dig.
+
+Rocky Soil: Digging will be much harder. You'll need a pickaxe or digging bar to break up rocks.
+
+[h1:date [role cyan Date]]
+
+Wed Apr  1 07:13:16 AM UTC 2026
+
+[include ../../share/foot-links.inc.qbk]
+

@@ -1,0 +1,23 @@
+[article Hospital 06
+	[quickbook 1.7]
+	[id hospital-06]
+]
+
+[role drop_menu
+> [link hospital Back: Hospital][br]
+]
+
+Dr. Ramirez: Sir, I’m not an expert! I’m still trying to figure out if the avian resonance is affecting Mr. Henderson's spleen or the squirrels' trebuchets!
+
+(Suddenly, a small, elderly man in a clown costume pops his head in.)
+
+Clown: Excuse me! I'm the hospital’s resident jester! Apparently, there's a crucial birthday party for the head administrator, and the cake… has mysteriously vanished! And I suspect a rogue flock of seagulls is involved! They're known for their fondness for frosting!
+
+(The cleaning lady, Agnes, points at the clown.)
+
+[h1:date [role cyan Date]]
+
+Wed Apr  1 07:40:41 AM UTC 2026
+
+[include ../../share/foot-links.inc.qbk]
+

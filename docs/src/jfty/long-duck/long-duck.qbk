@@ -1,0 +1,15 @@
+[article Long Duck
+	[quickbook 1.7]
+	[id long-duck]
+]
+
+[role drop_menu
+> [link jfty Back: Jfty][br]
+]
+
+[include duck-life.qbk]
+[include duck-dinner.qbk]
+[include duck-and-duck.qbk]
+
+[include ../../share/foot-links.inc.qbk]
+

@@ -1,0 +1,23 @@
+[article Hospital 04
+	[quickbook 1.7]
+	[id hospital-04]
+]
+
+[role drop_menu
+> [link hospital Back: Hospital][br]
+]
+
+Chimpanzee (in a surprisingly deep voice): Excuse me, are you aware that the hospital's supply of bananas has been… compromised? There appears to be a significant shortage. My research suggests this could be linked to a rogue colony of squirrels hoarding them for a miniature banana-themed Renaissance fair they’re planning.
+
+Dr. Finch: (Stares at the chimpanzee) Dr. Ramirez, are you seeing this?
+
+Dr. Ramirez: (Equally bewildered) Sir, my avian resonance index is showing… significant fluctuations! And I think the squirrels might be using tiny trebuchets.
+
+(Mr. Henderson, who has been listening to all of this, pipes up.)
+
+[h1:date [role cyan Date]]
+
+Wed Apr  1 07:39:11 AM UTC 2026
+
+[include ../../share/foot-links.inc.qbk]
+

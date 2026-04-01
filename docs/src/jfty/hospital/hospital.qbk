@@ -1,0 +1,21 @@
+[article Hospital
+	[quickbook 1.7]
+	[id hospital]
+]
+
+[role drop_menu
+> [link jfty Back: Jfty][br]
+]
+
+[include hospital-01.qbk]
+[include hospital-02.qbk]
+[include hospital-03.qbk]
+[include hospital-04.qbk]
+[include hospital-05.qbk]
+[include hospital-06.qbk]
+[include hospital-07.qbk]
+[include hospital-08.qbk]
+[include hospital-09.qbk]
+
+[include ../../share/foot-links.inc.qbk]
+

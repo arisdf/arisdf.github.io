@@ -1,0 +1,31 @@
+[article How To Dig A Hole: P2
+	[quickbook 1.7]
+	[id dig-hole-p2]
+]
+
+[role drop_menu
+> [link dig-hole Back: How To Dig A Hole][br]
+]
+
+[h1:digging-by-hand [role cyan 2. Digging by Hand]]
+
+(for smaller holes, or when power tools aren't feasible)
+
+Loosen the Soil: Start by using a shovel to loosen the soil around the perimeter of your marked area. Dig a shallow trench all the way around.
+
+Dig in Layers: Don’t try to dig too deep at once. Take small scoops of soil with your shovel.
+
+Remove the Soil: Have a wheelbarrow, buckets, or other container to hold the excavated soil. Remove the soil frequently to prevent the hole from filling up.
+
+Break Up Clods: If you encounter large clods of soil, use a garden fork or digging bar to break them up.
+
+Sloping the Walls (Important for Stability): For holes deeper than about 2-3 feet, angle the sides of the hole slightly inward (like a trapezoid instead of a cylinder). This makes the sides more stable and less likely to collapse.
+
+Dealing with Roots/Rocks: A pickaxe or digging bar can help dislodge stubborn roots and rocks.
+
+[h1:date [role cyan Date]]
+
+Wed Apr  1 07:04:41 AM UTC 2026
+
+[include ../../share/foot-links.inc.qbk]
+

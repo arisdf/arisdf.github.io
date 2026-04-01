@@ -1,0 +1,21 @@
+[article Hospital 02
+	[quickbook 1.7]
+	[id hospital-02]
+]
+
+[role drop_menu
+> [link hospital Back: Hospital][br]
+]
+
+Dr. Finch: (Massages his temples) Dr. Ramirez, let's just stick to the standard diagnostics for now. And please, lower your voice. This is a hospital, not a poultry farm.
+
+(Suddenly, a small, elderly woman, Mrs. Gable, bursts into the room, pushing a walker piled high with knitting supplies. She’s clearly upset.)
+
+Mrs. Gable: Doctor! Doctor! I need your help! My prize-winning Persian cat, Bartholomew, has gone missing! And he was wearing a tiny sombrero!
+
+[h1:date [role cyan Date]]
+
+Wed Apr  1 07:37:40 AM UTC 2026
+
+[include ../../share/foot-links.inc.qbk]
+

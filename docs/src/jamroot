@@ -1,0 +1,84 @@
+path-constant qbk-media-root : ./share/qbk-media/qbk-media ;
+path-constant wtgo-src-root : . ;
+path-constant wtgo-web-root : .. ;
+
+argv = [ modules.peek : ARGV ] ;
+
+if [ MATCH ^(clean)$ : $(argv) ]
+{
+	echo "rm -rf $(wtgo-src-root)/bin" ;
+	SHELL "rm -rf $(wtgo-src-root)/bin" ;
+
+	echo "rm -rf $(wtgo-src-root)/html" ;
+	SHELL "rm -rf $(wtgo-src-root)/html" ;
+
+	exit ;
+}
+
+if [ MATCH ^(cleanall)$ : $(argv) ]
+{
+	echo "rm -rf $(wtgo-src-root)/bin" ;
+	SHELL "rm -rf $(wtgo-src-root)/bin" ;
+
+	echo "rm -rf $(wtgo-src-root)/html" ;
+	SHELL "rm -rf $(wtgo-src-root)/html" ;
+
+	echo "rm -rf $(wtgo-web-root)/*.html" ;
+	SHELL "rm -rf $(wtgo-web-root)/*.html" ;
+
+	echo "rm -rf $(wtgo-web-root)/*.css" ;
+	SHELL "rm -rf $(wtgo-web-root)/*.css" ;
+
+	echo "rm -rf $(wtgo-web-root)/*.manifest" ;
+	SHELL "rm -rf $(wtgo-web-root)/*.manifest" ;
+
+	echo "rm -rf $(wtgo-web-root)/images" ;
+	SHELL "rm -rf $(wtgo-web-root)/images" ;
+
+	exit ;
+}
+
+xml xml-index : wtgo.qbk ;
+
+boostbook
+	html-index
+:
+	xml-index
+:
+	<xsl:param>"chunk.first.sections=1"
+	<xsl:param>"chunker.output.doctype-public=-//W3C//DTD XHTML 1.0 Strict//EN"
+	<xsl:param>"chunker.output.doctype-system=http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"
+	<dependency>media
+;
+
+install html
+	:
+		[ glob
+			$(wtgo-src-root)/html/*.html
+			$(wtgo-src-root)/html/*.manifest
+		]
+	:
+		<location>$(wtgo-web-root)
+		<install-source-root>$(wtgo-src-root)/html
+;
+
+install custom-page
+	:
+		[ glob
+			$(wtgo-src-root)/custom-page/*.html
+		]
+	:
+		<location>$(wtgo-web-root)
+		<install-source-root>$(wtgo-src-root)/custom-page
+;
+
+install media :
+	[ glob
+		$(qbk-media-root)/*.css
+		$(qbk-media-root)/images/*.png
+	]
+	:
+	<location>$(wtgo-web-root)
+	<install-source-root>$(qbk-media-root)
+	;
+

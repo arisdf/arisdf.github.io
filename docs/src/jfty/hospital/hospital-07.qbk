@@ -1,0 +1,23 @@
+[article Hospital 07
+	[quickbook 1.7]
+	[id hospital-07]
+]
+
+[role drop_menu
+> [link hospital Back: Hospital][br]
+]
+
+Agnes: He's the one! I saw him sneaking around the bakery earlier with a suspicious-looking net! And he smelled strongly of sprinkles!
+
+(The clown starts to cry.)
+
+Clown: I didn't steal the cake! I just wanted to… to serenade it! It was a beautiful cake! It deserved a song!
+
+(At this moment, Bartholomew, Mrs. Gable’s Persian cat, saunters into the room, calmly sitting on the mop bucket and wearing a tiny chef's hat. He's holding a slice of cake.)
+
+[h1:date [role cyan Date]]
+
+Wed Apr  1 07:41:30 AM UTC 2026
+
+[include ../../share/foot-links.inc.qbk]
+

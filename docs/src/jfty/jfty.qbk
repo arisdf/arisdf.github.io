@@ -1,0 +1,16 @@
+[article Jfty
+	[quickbook 1.7]
+	[id jfty]
+]
+
+[role drop_menu
+> [@. Back: Home]
+]
+
+[include dig-hole/dig-hole.qbk]
+[include ride-tiger/ride-tiger.qbk]
+[include hospital/hospital.qbk]
+[include long-duck/long-duck.qbk]
+
+[include ../share/foot-links.inc.qbk]
+

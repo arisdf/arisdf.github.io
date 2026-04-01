@@ -1,0 +1,25 @@
+[article Hospital 09
+	[quickbook 1.7]
+	[id hospital-09]
+]
+
+[role drop_menu
+> [link hospital Back: Hospital][br]
+]
+
+(Dr. Finch covers his face with his hands. He takes a deep breath.)
+
+Dr. Finch: Dr. Ramirez… please tell me you're documenting all of this. This is… this is groundbreaking.
+
+Dr. Ramirez: (Still scribbling furiously) Sir, I'm adding "interdimensional banana heist" to my differential diagnosis. And I'm pretty sure Mr. Henderson’s spleen is now communicating with the squirrels.
+
+(Finally, Dr. Finch looks directly at the audience.)
+
+Dr. Finch: So, I guess the question is... why was the rubber chicken tap-dancing on Mr. Henderson's spleen? And more importantly... who ordered the rubber chicken?
+
+[h1:date [role cyan Date]]
+
+Wed Apr  1 07:42:52 AM UTC 2026
+
+[include ../../share/foot-links.inc.qbk]
+

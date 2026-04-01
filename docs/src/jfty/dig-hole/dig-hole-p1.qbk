@@ -1,0 +1,33 @@
+[article How To Dig A Hole: P1
+	[quickbook 1.7]
+	[id dig-hole-p1]
+]
+
+[role drop_menu
+> [link dig-hole Back: How To Dig A Hole][br]
+]
+
+[h1:planning [role cyan 1. Planning & Preparation]]
+
+Purpose: Why are you digging the hole? (Planting, fence post, creating a pond, etc.) This will dictate the size and depth needed.
+
+Location:
+
+Check for Utilities: Crucially important! Call your local "Call Before You Dig" service (usually 811 in the US). They will mark underground utilities like gas lines, electrical cables, water pipes, and sewer lines. Hitting a utility line can be incredibly dangerous and expensive. This is not optional.
+
+Property Lines: Make sure you're on your property and not encroaching on a neighbor's land.
+
+Obstacles: Look for rocks, roots, or other obstructions that could make digging difficult.
+
+Size and Depth: Measure and mark the area you want to dig. Use stakes and string or spray paint to clearly define the boundaries.
+
+Tools & Gear: Gather the right equipment (see "Tools" section below).
+
+Safety Gear: (see "Safety Warnings" at the end)
+
+[h1:date [role cyan Date]]
+
+Wed Apr  1 07:03:03 AM UTC 2026
+
+[include ../../share/foot-links.inc.qbk]
+

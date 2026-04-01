@@ -1,0 +1,60 @@
+[book Wtgo
+	[quickbook 1.7]
+	[id wtgo]
+]
+
+[include jfty/jfty.qbk]
+
+[role drop_menu
+> [@. Start][br]
+> [link wtgo.update Update]
+]
+
+[h1:update [role cyan Update]]
+
+[link duck-life Duck Life]
+
+[link duck-dinner Duck Dinner]
+
+[link duck-and-duck Duck And Duck]
+
+[link hospital-01 Hospital 01]
+
+[link hospital-02 Hospital 02]
+
+[link hospital-03 Hospital 03]
+
+[link hospital-04 Hospital 04]
+
+[link hospital-05 Hospital 05]
+
+[link hospital-06 Hospital 06]
+
+[link hospital-07 Hospital 07]
+
+[link hospital-08 Hospital 08]
+
+[link hospital-09 Hospital 09]
+
+[link ride-tiger-p1 How To Ride A Tiger p1]
+
+[link ride-tiger-p2 How To Ride A Tiger p2]
+
+[link ride-tiger-p3 How To Ride A Tiger p3]
+
+[link dig-hole-p1 How To Dig A Hole p1]
+
+[link dig-hole-p2 How To Dig A Hole p2]
+
+[link dig-hole-p3 How To Dig A Hole p3]
+
+[link dig-hole-p4 How To Dig A Hole p4]
+
+[link dig-hole-p5 How To Dig A Hole p5]
+
+[link dig-hole-p6 How To Dig A Hole p6]
+
+[include ./share/foot-links.inc.qbk]
+
+
+

@@ -1,0 +1,33 @@
+[article How To Dig A Hole: P3
+	[quickbook 1.7]
+	[id dig-hole-p3]
+]
+
+[role drop_menu
+> [link dig-hole Back: How To Dig A Hole][br]
+]
+
+[h1:using [role cyan 3. Using Power Tools]]
+
+(for larger holes, or when hand-digging is too difficult)
+ 
+Shoveling is Still Necessary! Even with power tools, you'll still need to shovel the loose soil.
+
+Auger (for cylindrical holes):
+
+Electric/Cordless: Easier to maneuver, but limited by cord length (for electric) or battery life (for cordless).
+
+Gas-Powered: More powerful and portable, but louder and require fuel.
+
+How to Use: Follow the manufacturer's instructions carefully. Typically, you'll hold the auger vertically and use your body weight to rotate it into the ground. Be very careful of rocks and roots. Augers can kick out unexpectedly.
+
+Trenching Machine (for long, narrow holes): These are designed for digging trenches for pipes or cables.
+
+Mini Excavator (for very large or deep holes): A serious piece of equipment - requires training and experience to operate safely.
+
+[h1:date [role cyan Date]]
+
+Wed Apr  1 07:07:42 AM UTC 2026
+
+[include ../../share/foot-links.inc.qbk]
+

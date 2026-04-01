@@ -1,0 +1,18 @@
+[article How To Dig A Hole
+	[quickbook 1.7]
+	[id dig-hole]
+]
+
+[role drop_menu
+> [link jfty Back: Jfty][br]
+]
+
+[include dig-hole-p1.qbk]
+[include dig-hole-p2.qbk]
+[include dig-hole-p3.qbk]
+[include dig-hole-p4.qbk]
+[include dig-hole-p5.qbk]
+[include dig-hole-p6.qbk]
+
+[include ../../share/foot-links.inc.qbk]
+

@@ -1,0 +1,23 @@
+[article Hospital 05
+	[quickbook 1.7]
+	[id hospital-05]
+]
+
+[role drop_menu
+> [link hospital Back: Hospital][br]
+]
+
+Mr. Henderson: You know, I think the rubber chicken is starting to waltz now. And I think it's wearing a tiny sombrero too.
+
+(The phone rings. Dr. Finch answers it.)
+
+Dr. Finch: Dr. Finch speaking… Yes… What?! The hospital’s main elevator has been taken over by a group of pigeons performing a synchronized swimming routine? And they’ve demanded all the hospital’s crackers? Are you sure it's pigeons? What if it’s trained squirrels in disguise?! …Okay, okay. I’m sending Dr. Ramirez. He’s apparently an expert in unusual wildlife incidents.
+
+(Dr. Ramirez looks terrified.)
+
+[h1:date [role cyan Date]]
+
+Wed Apr  1 07:39:55 AM UTC 2026
+
+[include ../../share/foot-links.inc.qbk]
+

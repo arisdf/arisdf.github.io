@@ -1,0 +1,15 @@
+[article How To Ride A Tiger
+	[quickbook 1.7]
+	[id ride-tiger]
+]
+
+[role drop_menu
+> [link jfty Back: Jfty][br]
+]
+
+[include ride-tiger-p1.qbk]
+[include ride-tiger-p2.qbk]
+[include ride-tiger-p3.qbk]
+
+[include ../../share/foot-links.inc.qbk]
+
