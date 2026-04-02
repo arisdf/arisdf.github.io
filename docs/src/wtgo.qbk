@@ -54,6 +54,12 @@
 
 [link dig-hole-p6 How To Dig A Hole p6]
 
+[h1:repos [role cyan Repos]]
+
+[@https://github.com/arisdf/nedehe]
+
+[@https://github.com/arisdf/sgjcode]
+
 [include ./share/foot-links.inc.qbk]
 
 
