@@ -1,0 +1,15 @@
+[article Think Soul
+	[quickbook 1.7]
+	[id think-soul]
+]
+
+[role drop_menu
+> [link jfty Back: Jfty][br]
+]
+
+[include what-is-soul.qbk]
+[include do-robots-have-true-awareness.qbk]
+[include why-do-humans-feel-sad.qbk]
+
+[include ../../share/foot-links.inc.qbk]
+

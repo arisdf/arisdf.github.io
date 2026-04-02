@@ -1,0 +1,3 @@
+echo "Real project is \"docs/src/\", please use that project." ;
+exit ;
+
