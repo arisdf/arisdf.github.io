@@ -1,0 +1,15 @@
+[article Mars Task
+	[quickbook 1.7]
+	[id mars-task]
+]
+
+[role drop_menu
+> [link jfty Back: Jfty][br]
+]
+
+[include how-drive-nail-steel-plate.qbk]
+[include how-cut-mosquitoes-sausages.qbk]
+[include how-kill-a-fly-with-bare-hands.qbk]
+
+[include ../../share/foot-links.inc.qbk]
+
