@@ -5,6 +5,7 @@
 
 [role drop_menu
 > [link jfty Back: Jfty][br]
+> [@. Back: Home][br]
 ]
 
 [include how-drive-nail-steel-plate.qbk]

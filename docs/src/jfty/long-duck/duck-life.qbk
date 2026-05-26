@@ -5,6 +5,7 @@
 
 [role drop_menu
 > [link long-duck Back: Long Duck][br]
+> [@. Back: Home][br]
 ]
 
 [h1:duck-life [role cyan The Ballad of Reginald Featherbottom: A Duck's Life]]

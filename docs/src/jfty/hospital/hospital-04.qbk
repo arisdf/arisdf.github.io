@@ -5,6 +5,7 @@
 
 [role drop_menu
 > [link hospital Back: Hospital][br]
+> [@. Back: Home][br]
 ]
 
 Chimpanzee (in a surprisingly deep voice): Excuse me, are you aware that the hospital's supply of bananas has been… compromised? There appears to be a significant shortage. My research suggests this could be linked to a rogue colony of squirrels hoarding them for a miniature banana-themed Renaissance fair they’re planning.

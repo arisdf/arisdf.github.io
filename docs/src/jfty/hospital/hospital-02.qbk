@@ -5,6 +5,7 @@
 
 [role drop_menu
 > [link hospital Back: Hospital][br]
+> [@. Back: Home][br]
 ]
 
 Dr. Finch: (Massages his temples) Dr. Ramirez, let's just stick to the standard diagnostics for now. And please, lower your voice. This is a hospital, not a poultry farm.

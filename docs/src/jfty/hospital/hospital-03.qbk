@@ -5,6 +5,7 @@
 
 [role drop_menu
 > [link hospital Back: Hospital][br]
+> [@. Back: Home][br]
 ]
 
 Dr. Finch: (Stares blankly) Mrs. Gable, with all due respect, a missing cat in a sombrero is hardly a medical emergency.

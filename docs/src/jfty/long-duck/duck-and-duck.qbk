@@ -5,6 +5,7 @@
 
 [role drop_menu
 > [link long-duck Back: Long Duck][br]
+> [@. Back: Home][br]
 ]
 
 [h1:duck-and-duck [role cyan Duck and Duck: The Tale of Pip and Seraphina]]

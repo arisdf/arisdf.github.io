@@ -4,7 +4,7 @@
 ]
 
 [role drop_menu
-> [@. Back: Home]
+> [@. Back: Home][br]
 ]
 
 [include journey/journey.qbk]

@@ -5,6 +5,7 @@
 
 [role drop_menu
 > [link hospital Back: Hospital][br]
+> [@. Back: Home][br]
 ]
 
 (A weary-looking doctor, Dr. Finch, is making rounds. He’s trailed by a very enthusiastic, if somewhat disorganized, resident, Dr. Ramirez. They stop at the bedside of a patient, Mr. Henderson, who is wired to a bewildering array of monitors and hooked up to an IV drip.)

@@ -5,6 +5,7 @@
 
 [role drop_menu
 > [link hospital Back: Hospital][br]
+> [@. Back: Home][br]
 ]
 
 Mrs. Gable: Bartholomew! There you are! What have you been up to?

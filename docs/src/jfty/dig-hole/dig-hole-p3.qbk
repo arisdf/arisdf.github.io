@@ -5,6 +5,7 @@
 
 [role drop_menu
 > [link dig-hole Back: How To Dig A Hole][br]
+> [@. Back: Home][br]
 ]
 
 [h1:using [role cyan 3. Using Power Tools]]
