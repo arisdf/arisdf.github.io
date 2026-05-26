@@ -1,0 +1,37 @@
+[article Myopia Distant Looking
+	[quickbook 1.7]
+	[id myopia-distant-looking]
+]
+
+[role drop_menu
+> [link journey Back: Journey][br]
+]
+
+[$./media/ee23a45/myopia-642x642.jpg [align right] [width 400px]]
+
+[role ddred [*Can looking into distant places for a long time reduce the degree of myopia?]]
+
+To put it simply and directly: Looking into the distance for a long time can not reduce the degree of true myopia that has already formed, but it can help relieve eye fatigue and slow down the progression of myopia to some extent.
+
+[role ddred [*Why can't looking into the distance reduce the degree of myopia?]]
+
+[role dddgreen [*True myopia (axial myopia) :]]
+
+The main cause is that the eye axis of the eyeball becomes longer, and the focus of light falls in front of the retina.
+
+Once the eye axis becomes longer, there are currently no non-surgical methods (such as looking into the distance, eye exercises, eye care devices, etc.) that can shorten the eye axis, so the degree will not truly decrease.
+
+[role dddgreen [*Pseudo-myopia (accommodation spasm) :]]
+
+Prolonged close-range eye use causes the ciliary muscle to contract and spasm continuously. Refraction may result in "temporary myopia".
+
+After adequate rest, looking into the distance and cycloplegic refraction, the degree may disappear or decrease - this is the effect of "accommodation relaxation", not that true myopia has been cured.
+
+So when some people feel that they can see more clearly after persistently looking into the distance, it is usually due to the relief of visual fatigue or pseudo-myopia components, rather than a decrease in the degree of true myopia.
+
+[h1:date [role cyan Date]]
+
+Tue May 26 02:17:34 AM UTC 2026
+
+[include ../../share/foot-links.inc.qbk]
+

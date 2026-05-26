@@ -1,0 +1,13 @@
+[article Journey
+	[quickbook 1.7]
+	[id journey]
+]
+
+[role drop_menu
+> [link jfty Back: Jfty][br]
+]
+
+[include myopia-distant-looking.qbk]
+
+[include ../../share/foot-links.inc.qbk]
+
