@@ -1,5 +1,7 @@
 [h1:update [role cyan Update]]
 
+[link crow-intelligent-human Crow, Intelligent, Human]
+
 [link myopia-distant-looking Myopia Distant Looking]
 
 [@. Home]
@@ -10,8 +12,10 @@
 
 [h1:by [role cyan By]]
 
-[role dddcyan [*wtgo.top]]
+[role dddcyan [*Boost Quickbook]][br]
+[@https://www.boost.org/doc/libs/latest/doc/html/quickbook.html]
 
+[role dddcyan [*wtgo.top]][br]
 [@https://wtgo.top https://wtgo.top]
 
 [br][br][br][br][br][br][br][br][br][br][br][br][br][br][br][br]
