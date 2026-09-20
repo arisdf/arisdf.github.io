@@ -1,0 +1,24 @@
+[article Man And Lion
+	[quickbook 1.7]
+	[id man-and-lion]
+]
+
+[role drop_menu
+> [link journey Back: Journey][br]
+> [@. Back: Home][br]
+]
+
+[$media/ee23a45/man-lion-200x200.jpg [align right] [width 200px]]
+
+A man walked into the lion lying on the steel deck, and stroked the lion's back.
+
+The lion released a low and long roar, and rubbed its head against man's waist.
+
+They walked away, shoulder by shoulder, to the sunset river.
+
+[h1:date [role cyan Date]]
+
+Sun Sep 20 05:53:45 AM UTC 2026
+
+[include ../../share/foot-links.inc.qbk]
+
