@@ -8,9 +8,9 @@
 
 [@. Home]
 
-[h1:outside-world [role cyan Outside World]]
+[h1:world [role cyan World]]
 
-[@https://www.cppfx.tiv.cc]
+[@https://www.cppfx.tiv.cc cppfx]
 
 [h1:by [role cyan By]]
 
