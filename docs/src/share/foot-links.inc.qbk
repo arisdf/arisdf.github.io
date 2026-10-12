@@ -1,24 +1,22 @@
-[h1:update [role cyan Update]]
+[h1:end [role cyan End]]
 
-[link how-to-make-a-tree-hole-house How To Make A Tree Hole House]
+[h3:update Update]
 
-[link man-and-lion Man And Lion]
+[link how-to-make-a-tree-hole-house How To Make A Tree Hole House][br]
+[link man-and-lion Man And Lion][br]
+[link spaceship-50-years-alienated Spaceship 50 Years Alienated][br]
 
-[link spaceship-50-years-alienated Spaceship 50 Years Alienated]
-
-[@. Home]
-
-[h1:world [role cyan World]]
+[h3:world World]
 
 [@https://www.cppfx.tiv.cc cppfx]
 
-[h1:by [role cyan By]]
+[h3:by By]
 
-[role dddcyan [*Boost Quickbook]][br]
-[@https://www.boost.org/doc/libs/latest/doc/html/quickbook.html]
+[@https://www.boost.org/doc/libs/latest/doc/html/quickbook.html Boost Quickbook][br]
+[@https://wtgo.top Wtgo][br]
 
-[role dddcyan [*wtgo.top]][br]
-[@https://wtgo.top https://wtgo.top]
+[h3:end.self Wtgo]
+
+[@sitemap.xml sitemap] - [@. Home]
 
 [br][br][br][br][br][br][br][br][br][br][br][br][br][br][br][br]
-
