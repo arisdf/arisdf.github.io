@@ -35,6 +35,12 @@ if [ MATCH ^(cleanall)$ : $(argv) ]
 	echo "rm -rf $(wtgo-web-root)/images" ;
 	SHELL "rm -rf $(wtgo-web-root)/images" ;
 
+	echo "rm -rf $(wtgo-web-root)/robots.txt" ;
+	SHELL "rm -rf $(wtgo-web-root)/robots.txt" ;
+
+	echo "rm -rf $(wtgo-web-root)/sitemap.xml" ;
+	SHELL "rm -rf $(wtgo-web-root)/sitemap.xml" ;
+
 	exit ;
 }
 
@@ -66,6 +72,8 @@ install custom-page
 	:
 		[ glob
 			$(wtgo-src-root)/custom-page/*.html
+			$(wtgo-src-root)/custom-page/robots.txt
+			$(wtgo-src-root)/custom-page/sitemap.xml
 		]
 	:
 		<location>$(wtgo-web-root)
